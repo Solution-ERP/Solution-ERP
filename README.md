@@ -18,7 +18,7 @@
 Helping businesses automate processes and improve efficiency.
 
 ## 📷 Screenshots
-(Add your ERP screenshots here)
+Loading...
 
 ## 📬 Contact
 For business inquiries: solutionerp.in
